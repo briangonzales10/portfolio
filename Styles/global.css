@@ -5,12 +5,10 @@
   height: 487px;
 }
 .navigation {
-  position: sticky;
-  background-color: rgb(157, 193, 240);
-  width: 100%;
-  text-align: center;
   display: flex;
-  justify-content: space-around;
+  position: sticky;
+  background-color: rgb(73, 132, 209);
+  width: 100em;
   top: 487px;
-  padding: 10px 10px;
+  padding: 8px 8px;
 }
