@@ -1,0 +1,16 @@
+.head-background {
+  background-image: url("/Portfolio/Images/cliffsbg.jpg");
+  background-repeat: no-repeat;
+  background-color: #697088;
+  height: 487px;
+}
+.navigation {
+  position: sticky;
+  background-color: rgb(157, 193, 240);
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  top: 487px;
+  padding: 10px 10px;
+}
